@@ -22,6 +22,23 @@ acessar um recurso de clientes, contendo as cinco operações básicas:**
 9. Deleção de cliente deleta cliente existente - Ok
 10. Deleção de cliente retorna 404 para cliente inexistente - Ok
 
+## Conceitos Utilizados
+- O que é uma API REST
+- Recursos, URL, parâmetros de consulta e de rota
+- Padrões de URL, verbos HTTP, códigos de resposta
+- Padrão camadas
+- Acessando API
+- Repository
+- Criando DTO e estruturando camadas
+- Busca paginada
+- Inserção com POST
+- Customizando resposta com ResponseEntity
+- Atualização com PUT
+- Deleção com DELETE
+- Criando exceções de serviço customizadas
+- Tratando exceção com resposta customizada
+- Validação com Bean Validation
+- Customizando a resposta da validação
 
 ## Tecnologias utilizadas
 - Spring Web
